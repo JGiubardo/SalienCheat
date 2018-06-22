@@ -4,7 +4,7 @@ set_time_limit( 0 );
 
 $Token = trim( file_get_contents( __DIR__ . '/token.txt' ) );
 
-SendPOST( 'ITerritoryControlMinigameService/RepresentClan', 'clanid=4777282&access_token=' . $Token );
+SendPOST( 'ITerritoryControlMinigameService/RepresentClan', 'clanid=33035916&access_token=' . $Token );
 
 lol_using_goto_in_2018:
 
