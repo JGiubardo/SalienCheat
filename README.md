@@ -1,4 +1,4 @@
-### How to use this
+### How to use this on Windows
 
 1. Install PHP (yes, really)
 
