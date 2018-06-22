@@ -4,11 +4,12 @@
    1. Download x64 non thread safe zip from here: https://windows.php.net/download/     
    2. Extract zip to C:\php
    3. Extract the contents of this program to the same folder 
+   
 2. Install and enable `curl` extension in PHP
    1. Open php.ini-production in a text editor
    2. Find ;extension=curl and delete the semicolon
-        
-        c.Save as php.ini
+   3. Save as php.ini
+   
 3. Join https://steamcommunity.com/groups/summersaliens  (needed to represent captures)
 4. Grab `token` from https://steamcommunity.com/saliengame/gettoken and put it in `token.txt` (replace all content there)
 5. Run the script: `php cheat.php`
