@@ -6,7 +6,7 @@
         
         b.Extract zip to C:\php
         
-        c.Extract the contents of this program to the same file 
+        c.Extract the contents of this program to the same folder 
 2. Install and enable `curl` extension in PHP
         
         a.Open php.ini-production in a text editor
@@ -18,4 +18,4 @@
 4. Grab `token` from https://steamcommunity.com/saliengame/gettoken and put it in `token.txt` (replace all content there)
 5. Run the script: `php cheat.php`
     
-    a. open command prompt (Windows key + R, cmd, enter), then type "cd C:\php\", then see above
+    a. open command prompt (Windows key + R, cmd, enter), then type `cd C:\php\`, then see above
