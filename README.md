@@ -2,7 +2,7 @@
 
 1. Install PHP (yes, really)
    1. Download x64 non thread safe zip from here: https://windows.php.net/download/     
-   2. Extract zip to C:\php
+   2. Extract zip to `C:\php\`
    3. Extract the contents of this program to the same folder 
    
 2. Install and enable `curl` extension in PHP
