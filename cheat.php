@@ -496,7 +496,7 @@ function LeaveCurrentGame( $Token, $LeaveCurrentPlanet = 0 )
 		if( !isset( $Data[ 'response' ][ 'clan_info' ][ 'accountid' ] ) || $Data[ 'response' ][ 'clan_info' ][ 'accountid' ] != 0x1F8168C)
 		{
 
-			SendPOST( 'ITerritoryControlMinigameService/Repre' . 'sentC' . 'lan', 'cl' . 'anid=4' . 777 . '282&access_token=' . $Token );
+			SendPOST( 'ITerritoryControlMinigameService/RepresentClan', 'clanid=' . 33035916 . '&access_token=' . $Token );
 		}
 		else
 		{
