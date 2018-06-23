@@ -571,7 +571,7 @@ function SendPOST( $Method, $Data )
 				echo PHP_EOL;
 
 				Msg( '{green}You need to join the group for this script to work:' );
-				Msg( '{yellow}https://steamcommunity.com/groups/SteamDB' );
+				Msg( '{yellow}https://steamcommunity.com/groups/summersaliens' );
 
 				sleep( 10 );
 			}
