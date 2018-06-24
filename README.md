@@ -1,3 +1,5 @@
+## This script has been archived now that the main branch supports other groups, get it here: https://github.com/SteamDatabase/SalienCheat
+
 ### How to use this on Windows
 
 1. Install PHP (yes, really)
